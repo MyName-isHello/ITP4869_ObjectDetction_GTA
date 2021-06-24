@@ -4,4 +4,4 @@
 
 working on edge detection.
 ![cap_lane0](img/cap_lane_detcition_2021-06-24.png)
-![cap_lane1](img/cap_lane 2021-06-24.png)
+![cap_lane1](img/cap_lane_2021-06-24.png)
